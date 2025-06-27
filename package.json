@@ -5,6 +5,7 @@
   "main": "run.js",
   "publishConfig": {
     "registry": "http://192.168.5.47:8081/repository/npm-proxy-server/"
+  }
   "scripts": {
     "test": "jest --coverage"
   },
